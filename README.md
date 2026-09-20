@@ -1,2 +1,2 @@
 # Number-converter
-Script where you can pick a form of number (binary, hexadecimal, denary) and be able to convert it into other types of numbers 
+Script where you can pick a form of number (binary, hexadecimal, denary) and be able to convert it into other types of numbers. Inputing a binary number will get you its denary and hexadecimal form, which will be the same for other types, where hexadecimal gives out denary and binary form.
