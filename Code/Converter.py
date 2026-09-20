@@ -11,6 +11,7 @@ try:
 except ValueError:
     print("Please enter a number from 1, 2 or 3")
 
+
 else:
     if number_type1 == 1:
         while True:
